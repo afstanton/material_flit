@@ -1,5 +1,5 @@
 module MaterialFlit
-  class Theme < FlitViewComponents::Theme
+  class Theme < Flit::Theme
 
   end
 end
