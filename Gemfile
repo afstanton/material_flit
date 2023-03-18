@@ -11,5 +11,7 @@ gem "rspec", "~> 3.0"
 
 gem "rubocop", "~> 1.21"
 
+gem 'rails'
+
 # Running off of the main branch for now
 gem 'flit_view_components', github: 'afstanton/flit_view_components', branch: 'main'
